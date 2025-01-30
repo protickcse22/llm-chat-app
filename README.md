@@ -66,9 +66,7 @@ git clone <repository-url>
 cd llm-chat-app
 ```
 
-### Step 2: Set Up the Backend
-
-Install dependencies:
+### Step 2: Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -166,13 +164,6 @@ Modify the `backend/main.py` file to add or change model parameters.
 - **File Uploads**: Allow users to upload files for context-based queries.
 - **Advanced Analytics**: Track usage and performance metrics.
 - **Docker Support**: Simplify deployment with Docker containers.
-
-## Support and Maintenance
-
-For any issues or questions, please contact:
-
-- **Your Name**: [Your Email Address]
-- **GitHub Repository**: [Repository Link]
 
 ## License
 
